@@ -8,4 +8,3 @@ Modify conf/parser.conf with updated values of mysql connection.
 src folder contains source code of the tool
 testsrc folder contains unit testing code of the tool
 The SQL schema is in schema.sql.
-The SQL questions with answers are in sqlAnswers.sql
